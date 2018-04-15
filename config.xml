@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id        = "com.MagazineContentApp"
+		id        = "com.bv.demoapp"
 		versionCode="1"
 		version   = "1.0.0">
-		<name>Demo</name>
-		<description>Demo app Bao Viet</description>
+		<name>BaoViet App</name>
+		<description>BaoViet App</description>
 		<author href="http://www.invedion.com" email="contact@invedion.com">INVEDION</author>
 		<preference name="phonegap-version" value="cli-8.0.0" />
 		<preference name='pgb-builder-version' value='2' />
