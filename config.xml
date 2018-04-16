@@ -3,7 +3,7 @@
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.baoviet"
 		versionCode="1"
-		version   = "1.0.0">
+		version   = "1.0">
 		<name>BaoViet App</name>
 		<description>BaoViet App</description>
 		<author href="http://www.invedion.com" email="contact@invedion.com">INVEDION</author>
